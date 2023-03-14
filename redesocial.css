@@ -1,0 +1,41 @@
+/*body{
+    box-sizing: border-box;
+}
+.container{
+    margin: 0 auto;
+    justify-content: left;
+    display: flex;
+}*/
+body{
+    background-color: hsl(245, 68%, 17%);
+}
+nav{
+    background-color: #130e49;
+    height: 40px;
+    margin-top: auto;
+}
+header{
+    margin: 35px;
+}
+.nav-link{
+    color: #f0f8ff;
+}
+.bloco3 {
+    margin-top: 100px;
+    color: aliceblue;
+    width: 40%;
+    border: 1px solid;
+    height: 1970px;
+    margin: auto;
+    margin-bottom: 15px;
+    }
+    .card-title{
+        color: #130e49
+      }
+    footer{
+        background-color: #f0f8ff;
+        height: 120px;
+    }
+    p{
+        text-align: center;
+    }
